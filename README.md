@@ -1,5 +1,4 @@
 # Medical Insurance Cost Prediction
-# Machine Learning
 # Model Evaluation and Validation
 ## Project: Predicting charges of medical insurance
 
